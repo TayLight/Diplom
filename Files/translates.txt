@@ -1,0 +1,6 @@
+word1-translate1
+word1-translate2
+word2-translate3
+word2-translate4
+word2-translate5
+word3-translate6
